@@ -7,7 +7,7 @@ export default function Home() {
       <Navbar />
       <div class="d-lg-flex flex-row bg-light rounded-3 mx-2 p-3 my-3" data-aos="zoom-in-left">
             <div class="col">
-            <img src="http://it.cmtc.ac.th/web2017/photo/upload/2018/1535695894_6010-org.jpg" class="d-block w-100 img-fluid " alt="..."></img>
+            <img src="../public/img/about" class="d-block w-100 img-fluid " alt="..."></img>
             </div>
             <div class="col ms-3" >
                 <h1 class="text-start fs-1">Software</h1>
